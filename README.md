@@ -1,6 +1,6 @@
 # Hospital Management System (Final Project - HI 741)
 
-This project is a Tkinter-based GUI application for managing a clinical data warehouse at a hospital. It allows authorized users to manage patient records, visit notes, and generate statistical insights — all through a secure, role-based interface.
+This project is a Tkinter-based GUI application for managing a clinical data warehouse at a hospital. It allows authorized users to manage patient records, visit notes, and generate statistical insights all through a secure, role-based interface.
 
 ---
 
